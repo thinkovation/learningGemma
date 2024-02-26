@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+# Local assets (private notes, keys etc) that you dont want to go to github
+local/
 # C extensions
 *.so
 
